@@ -6,7 +6,7 @@
 
 ---
 
-## 🏗 Detailed Architectural Framework
+##  Detailed Architectural Framework
 
 ### Theoretical Foundation: The Evolution of K3s
 K3s represents a paradigm shift in container orchestration, specifically engineered to address the localized demands of **Edge Computing** and **Internet of Things (IoT)** deployments. By functioning as a fully compliant, CNCF-certified Kubernetes distribution, K3s provides a sophisticated management layer while maintaining a minimal resource footprint. 
