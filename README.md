@@ -1,8 +1,8 @@
 # Comprehensive Technical Analysis: High-Availability K3s Cluster Deployment on AWS
 
-**Candidate Name:** Samantha Makondo
-**Student Identifier:** 230667201 
-**Academic Program:** Advanced Diploma in IT
+**Candidate Name: Samantha Makondo
+**Student Number: 230667201 
+**Academic Program: Advanced Diploma in IT
 
 ---
 
